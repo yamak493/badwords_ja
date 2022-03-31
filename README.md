@@ -29,7 +29,6 @@ Miscellaneous caveat: Clearly, what goes in these lists is subjective.  In our c
 | [Italian](it)                      | it                |
 | [Japanese](ja)                     | ja                |
 | [Kabyle](kab)                      | kab               |
-| [Klingon](tlh)                     | tlh               |
 | [Korean](ko)                       | ko                |
 | [Norwegian](no)                    | no                |
 | [Persian](fa)                      | fa                |
