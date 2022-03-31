@@ -31,11 +31,11 @@ obciągać chuja
 obciągać fiuta
 obciągać loda
 pieprzyć
+pierdoła
 pierdolec
 pierdolić
 pierdolnąć
 pierdolnięty
-pierdoła
 pierdzieć
 pizda
 pojeb
@@ -46,8 +46,8 @@ robić loda
 ruchać
 rzygać
 skurwysyn
-sraczka
 srać
+sraczka
 suka
 syf
 wkurwiać

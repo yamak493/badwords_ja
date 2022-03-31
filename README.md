@@ -22,7 +22,7 @@ Miscellaneous caveat: Clearly, what goes in these lists is subjective.  In our c
 | [Filipino](fil)                    | fil               |
 | [Finnish](fi)                      | fi                |
 | [French](fr)                       | fr                |
-| [French (CA)](fr-CA-u-sd-caqc)     | fr-CA-u-sd-caqc   |
+| [French (CA)](fr-CA)               | fr-CA             |
 | [German](de)                       | de                |
 | [Hindi](hi)                        | hi                |
 | [Hungarian](hu)                    | hu                |
@@ -40,16 +40,6 @@ Miscellaneous caveat: Clearly, what goes in these lists is subjective.  In our c
 | [Swedish](sv)                      | sv                |
 | [Thai](th)                         | th                |
 | [Turkish](tr)                      | tr                |
-
-See also the [list of projects, documents, and organizations](USERS.md) that use these lists.
-
-## Node Module
-
-If you are using the word lists as `.json`, or in an `npm`project, you can install the word list using the [naughty-words](https://github.com/LDNOOBW/naughty-words-js) package.
-
-```bash
-npm install naughty-words
-```
 
 © 2012–2020 Shutterstock, Inc.
 

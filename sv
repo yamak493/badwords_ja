@@ -6,38 +6,38 @@ fan
 fitta
 fittig
 för helvete
-helvete
 hård
+helvete
 jävlar
 knulla
-kuk
-kuksås
 kötthuvud
 köttnacke
+kuk
+kuksås
 moona
 moonade
 moonar
 moonat
 mutta
-nigger
 neger
+nigger
 olla
 pippa
 pitt
-prutt
 pök
-runka
+prutt
 röv
 rövhål
 rövknulla
+runka
+sås
 satan
+sätta på
+skäggbiff
 skita
 skit ner dig
-skäggbiff
 snedfitta
 snefitta
 stake
 subba
-sås
-sätta på
 tusan

@@ -8,7 +8,6 @@ aftrekken
 afwerkplaats
 afzeiken
 afzuigen
-een halve man en een paardekop
 anita
 asbak
 aso
@@ -45,6 +44,7 @@ drol
 drooggeiler
 droogkloot
 een beurt geven
+een halve man en een paardekop
 een nummertje maken
 een wip maken
 eikel
