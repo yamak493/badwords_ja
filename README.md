@@ -10,35 +10,36 @@ Miscellaneous caveat: Clearly, what goes in these lists is subjective.  In our c
 
 ## Languages
 
-| Name                               | Code              |
-| ---------------------------------- | ----------------- |
-| [Arabic](ar)                       | ar                |
-| [Chinese](zh)                      | zh                |
-| [Czech](cs)                        | cs                |
-| [Danish](da)                       | da                |
-| [Dutch](nl)                        | nl                |
-| [English](en)                      | en                |
-| [Esperanto](eo)                    | eo                |
-| [Filipino](fil)                    | fil               |
-| [Finnish](fi)                      | fi                |
-| [French](fr)                       | fr                |
-| [French (CA)](fr-CA)               | fr-CA             |
-| [German](de)                       | de                |
-| [Hindi](hi)                        | hi                |
-| [Hungarian](hu)                    | hu                |
-| [Italian](it)                      | it                |
-| [Japanese](ja)                     | ja                |
-| [Kabyle](kab)                      | kab               |
-| [Korean](ko)                       | ko                |
-| [Norwegian](no)                    | no                |
-| [Persian](fa)                      | fa                |
-| [Polish](pl)                       | pl                |
-| [Portuguese](pt)                   | pt                |
-| [Russian](ru)                      | ru                |
-| [Spanish](es)                      | es                |
-| [Swedish](sv)                      | sv                |
-| [Thai](th)                         | th                |
-| [Turkish](tr)                      | tr                |
+| Name                            | ISO 639-3 Code    |
+| ------------------------------- | ----------------- |
+| [Arabic](ara)                   | ara               |
+| [Chinese](zho)                  | zho               |
+| [Czech](ces)                    | ces               |
+| [Danish](dan)                   | dan               |
+| [Dutch](nld)                    | nld               |
+| [English](eng)                  | eng               |
+| [Esperanto](epo)                | epo               |
+| [Filipino](fil)                 | fil               |
+| [Finnish](fin)                  | fin               |
+| [French](fra)                   | fra               |
+| [German](deu)                   | deu               |
+| [Hindi](hin)                    | hin               |
+| [Hungarian](hun)                | hun               |
+| [Italian](ita)                  | ita               |
+| [Japanese](jpn)                 | jpn               |
+| [Kabyle](kab)                   | kab               |
+| [Korean](kor)                   | kor               |
+| [Norwegian](nor)                | nor               |
+| [Persian](fas)                  | fas               |
+| [Polish](pol)                   | pol               |
+| [Portuguese](por)               | por               |
+| [Russian](rus)                  | rus               |
+| [Spanish](spa)                  | spa               |
+| [Swedish](swe)                  | swe               |
+| [Thai](tha)                     | tha               |
+| [Turkish](tur)                  | tur               |
+
+All available languages are listed in the [languages.json] file.
 
 © 2012–2020 Shutterstock, Inc.
 
