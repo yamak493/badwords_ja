@@ -33,6 +33,7 @@ corno
 cu
 dar o rabo
 dum raio
+escroto
 esporra
 fecal
 filho da puta
