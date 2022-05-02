@@ -25,10 +25,12 @@ Miscellaneous caveat: Clearly, what goes in these lists is subjective.  In our c
 | [German](deu)                   | deu               |
 | [Hindi](hin)                    | hin               |
 | [Hungarian](hun)                | hun               |
+| [Indonesian](ind)               | ind               |
 | [Italian](ita)                  | ita               |
 | [Japanese](jpn)                 | jpn               |
 | [Kabyle](kab)                   | kab               |
 | [Korean](kor)                   | kor               |
+| [Lithuanian](ltu)               | ltu               |
 | [Norwegian](nor)                | nor               |
 | [Persian](fas)                  | fas               |
 | [Polish](pol)                   | pol               |
@@ -38,6 +40,7 @@ Miscellaneous caveat: Clearly, what goes in these lists is subjective.  In our c
 | [Swedish](swe)                  | swe               |
 | [Thai](tha)                     | tha               |
 | [Turkish](tur)                  | tur               |
+| [Ukrainian](ukr)                | ukr               |
 
 All available languages are listed in the [languages.json] file.
 

@@ -1,10 +1,11 @@
 aborto
 amador
-ânus
 aranha
 ariano
 balalao
 bastardo
+bater punheta
+bb
 bicha
 biscate
 bissexual
@@ -35,13 +36,17 @@ dar o rabo
 dum raio
 escroto
 esporra
+fdp
 fecal
 filho da puta
 foda
 foda-se
 foder
 frango assado
+gostoso
+gozando
 gozar
+gozei
 grelho
 heroína
 heterosexual
@@ -49,29 +54,46 @@ homem gay
 homoerótico
 homosexual
 inferno
-lésbica
 lolita
+lésbica
 mama
+maricona
 merda
+metendo
+meteu
+mulher
+novinhos
 paneleiro
 passar um cheque
 pau
+pegador
 peidar
-pênis
+peito
+pintamos
 pinto
 porra
+porrada
+punheta
 puta
 puta que pariu
 puta que te pariu
+putinho
+pênis
 queca
 sacanagem
 saco
+safada
+sexo
+tomar no cu
 torneira
 transar
 vadia
-vai-te foder
 vai tomar no cu
+vai-te foder
 veado
+velha
+viado
 vibrador
 xana
 xochota
+ânus
