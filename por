@@ -42,6 +42,7 @@ filho da puta
 foda
 foda-se
 foder
+fodido
 frango assado
 gostoso
 gozando
@@ -57,7 +58,9 @@ inferno
 lolita
 lésbica
 mama
+maricas
 maricona
+maricão
 merda
 metendo
 meteu
@@ -78,6 +81,8 @@ puta
 puta que pariu
 puta que te pariu
 putinho
+puto
+putos
 pênis
 queca
 sacanagem
