@@ -41,6 +41,7 @@ Miscellaneous caveat: Clearly, what goes in these lists is subjective.  In our c
 | [Thai](tha)                     | tha               |
 | [Turkish](tur)                  | tur               |
 | [Ukrainian](ukr)                | ukr               |
+| [Vietnamese](vie)               | vie               |
 
 All available languages are listed in the [languages.json] file.
 
