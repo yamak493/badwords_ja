@@ -23,6 +23,7 @@ Miscellaneous caveat: Clearly, what goes in these lists is subjective.  In our c
 | [Finnish](fin)                  | fin               |
 | [French](fra)                   | fra               |
 | [German](deu)                   | deu               |
+| [Hebrew](heb)                   | heb               |
 | [Hindi](hin)                    | hin               |
 | [Hungarian](hun)                | hun               |
 | [Indonesian](ind)               | ind               |
