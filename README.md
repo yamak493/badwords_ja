@@ -32,6 +32,7 @@ Miscellaneous caveat: Clearly, what goes in these lists is subjective.  In our c
 | [Kabyle](kab)                   | kab               |
 | [Korean](kor)                   | kor               |
 | [Lithuanian](ltu)               | ltu               |
+| [Malay](msa)                    | msa               |
 | [Norwegian](nor)                | nor               |
 | [Persian](fas)                  | fas               |
 | [Polish](pol)                   | pol               |
