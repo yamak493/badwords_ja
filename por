@@ -2,6 +2,8 @@ aborto
 amador
 aranha
 ariano
+badalhoca
+badalhoco
 balalao
 bastardo
 bater punheta
@@ -16,12 +18,16 @@ braulio de borracha
 bumbum
 burro
 cabrao
+cabrão
+caceta
 cacete
+cagada
 cagar
 camisinha
 caralho
 cerveja
 chochota
+chupa
 chupar
 clitoris
 cocaína
@@ -33,6 +39,7 @@ consolo
 corno
 cu
 dar o rabo
+desgraçado
 dum raio
 escroto
 esporra
@@ -44,10 +51,14 @@ foda-se
 foder
 fodido
 frango assado
+fuder
+fudeu
+gostosas
 gostoso
 gozando
 gozar
 gozei
+gozo
 grelho
 heroína
 heterosexual
@@ -55,6 +66,7 @@ homem gay
 homoerótico
 homosexual
 inferno
+jeba
 lolita
 lésbica
 mama
@@ -64,6 +76,7 @@ maricão
 merda
 metendo
 meteu
+mongolóide
 mulher
 novinhos
 paneleiro
@@ -72,8 +85,10 @@ pau
 pegador
 peidar
 peito
+pelados
 pintamos
 pinto
+pirola
 porra
 porrada
 punheta
@@ -89,14 +104,19 @@ sacanagem
 saco
 safada
 sexo
+tesudo
 tomar no cu
 torneira
+transa
 transar
+traveco
+travecos
 vadia
 vai tomar no cu
 vai-te foder
 veado
 velha
+viadagem
 viado
 vibrador
 xana
