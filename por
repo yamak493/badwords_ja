@@ -65,6 +65,8 @@ heterosexual
 homem gay
 homoerótico
 homosexual
+imbecil
+imbecis
 inferno
 jeba
 lolita
