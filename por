@@ -111,6 +111,7 @@ tomar no cu
 torneira
 transa
 transar
+transes
 traveco
 travecos
 vadia
