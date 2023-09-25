@@ -9,6 +9,7 @@ bastardo
 bater punheta
 bb
 bicha
+bilau
 biscate
 bissexual
 boceta
@@ -23,6 +24,7 @@ caceta
 cacete
 cagada
 cagar
+cala a boca
 camisinha
 caralho
 cerveja
@@ -103,6 +105,7 @@ putos
 pênis
 queca
 sacanagem
+sacanagens
 saco
 safada
 sexo
