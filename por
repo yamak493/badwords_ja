@@ -22,6 +22,7 @@ cabrao
 cabrão
 caceta
 cacete
+caga
 cagada
 cagar
 cala a boca
@@ -35,7 +36,6 @@ clitoris
 cocaína
 coito
 colhoes
-comer
 cona
 consolo
 corno
@@ -124,6 +124,7 @@ veado
 velha
 viadagem
 viado
+viadão
 vibrador
 xana
 xochota
