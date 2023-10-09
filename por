@@ -17,6 +17,7 @@ cacete
 caga
 cagada
 cagar
+cagão
 cala a boca
 caralho
 chochota
