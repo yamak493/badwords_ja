@@ -79,6 +79,7 @@ transar
 transes
 traveco
 travecos
+vagabunda
 vai tomar no cu
 vai-te foder
 veado
