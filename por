@@ -25,8 +25,10 @@ colhoes
 cona
 corno
 cu
+cuzão
 dar o rabo
 desgraçado
+desgraçados
 dum raio
 esporra
 fdp
@@ -34,9 +36,11 @@ filho da puta
 foda
 foda-se
 foder
+fodida
 fodido
 fuder
 fudeu
+fudida
 gozando
 gozar
 gozei
