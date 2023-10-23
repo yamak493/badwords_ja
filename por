@@ -75,7 +75,9 @@ putos
 sacanagem
 sacanagens
 safada
-sexo
+safadas
+safado
+safados
 tesudo
 tomar no cu
 transa
@@ -92,4 +94,3 @@ viadagem
 viado
 viadão
 xochota
-ânus
