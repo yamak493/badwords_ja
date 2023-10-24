@@ -4,6 +4,8 @@ balalao
 bastardo
 bater punheta
 bicha
+bichada
+bichadas
 bilau
 biscate
 boceta
