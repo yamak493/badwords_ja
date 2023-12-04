@@ -65,6 +65,7 @@ passar um cheque
 pau
 peidar
 pirola
+piru
 porra
 porrada
 punheta
