@@ -40,6 +40,7 @@ foda-se
 foder
 fodida
 fodido
+fuck
 fuder
 fudeu
 fudida
