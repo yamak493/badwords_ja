@@ -67,6 +67,8 @@ pau
 peidar
 pirola
 piru
+porca
+porco
 porra
 porrada
 punheta
@@ -90,7 +92,6 @@ transes
 traveco
 travecos
 vagabunda
-vai tomar no cu
 vai-te foder
 veado
 velha
